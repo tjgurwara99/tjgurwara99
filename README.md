@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Taj
 
+![](https://komarev.com/ghpvc/?username=tjgurwara99&label=PROFILE+VIEWS)
 
 
 <!--
