@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 -->
 
 - 📫 How to reach me at: [tjgurwara99@gmail.com](mailto:tjgurwara99@gmail.com)
+
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
