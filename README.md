@@ -21,7 +21,14 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me at: [tjgurwara99@gmail.com](mailto:tjgurwara99@gmail.com)
 
+---
+
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
+1. -
+2. -
+3. -
+4. -
+5. -
 <!--END_SECTION:activity-->
