@@ -23,12 +23,40 @@ Here are some ideas to get you started:
 
 ---
 
-### :zap: Recent Activity
+## 📊 Github Stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="tjgurwara99's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tjgurwara99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="tjgurwara99's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjgurwara99&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <strong>Note:</strong> Top languages is only a metric of the languages my github code/repositories consists of. Therefore it doesn't reflect my experience or skill level
+  accurately.
+</details>
+
+<details>
+  <summary> :zap: My Recent Activity on GitHub </summary>
 
 <!--START_SECTION:activity-->
-1. -
-2. -
-3. -
-4. -
-5. -
+
 <!--END_SECTION:activity-->
+
+</details>
+
+
+---
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="tjgurwara99's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tjgurwara99&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/tjgurwara99/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tjgurwara99&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+  <br/>
+  <strong> Note: </strong> The streak only takes into account my public contributions on GitHub, and therefore is not an accurate metric of how often I write code.
+</p>
