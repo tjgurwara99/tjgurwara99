@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,6 +12,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: DenverCoderOne/github-activity-readme@commit-username-and-email
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_USERNAME: "tjgurwara99"
+          COMMIT_EMAIL: "tjgurwara99@gmail.com"  
