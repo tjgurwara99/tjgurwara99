@@ -41,7 +41,6 @@ Here are some ideas to get you started:
   <summary> :zap: My Recent Activity on GitHub </summary>
   <br/>
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 </details>
 
