@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <details>
   <summary> :zap: My Recent Activity on GitHub </summary>
   <br/>
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#36](https://github.com/TheAlgorithms/Go/issues/36) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
 2. 🗣 Commented on [#277](https://github.com/TheAlgorithms/Go/issues/277) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
