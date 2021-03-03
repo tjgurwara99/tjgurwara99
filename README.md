@@ -36,13 +36,13 @@ Here are some ideas to get you started:
   accurately.
 </details>
 
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <details>
   <summary> :zap: My Recent Activity on GitHub </summary>
-
+  <br/>
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
 </details>
 
 
