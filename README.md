@@ -42,11 +42,11 @@ Here are some ideas to get you started:
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#288](https://github.com/TheAlgorithms/Go/pull/288) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-2. 🗣 Commented on [#36](https://github.com/TheAlgorithms/Go/issues/36) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-3. 🗣 Commented on [#277](https://github.com/TheAlgorithms/Go/issues/277) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-4. 🗣 Commented on [#24](https://github.com/Renato66/auto-label/issues/24) in [Renato66/auto-label](https://github.com/Renato66/auto-label)
-5. 🎉 Merged PR [#1](https://github.com/tjgurwara99/golang_database_utility/pull/1) in [tjgurwara99/golang_database_utility](https://github.com/tjgurwara99/golang_database_utility)
+1. ❌ Reopened PR [#288](https://github.com/TheAlgorithms/Go/pull/288) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+2. ❌ Closed PR [#288](https://github.com/TheAlgorithms/Go/pull/288) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+3. 🗣 Commented on [#294](https://github.com/TheAlgorithms/Go/issues/294) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+4. 🗣 Commented on [#294](https://github.com/TheAlgorithms/Go/issues/294) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+5. 🗣 Commented on [#268](https://github.com/TheAlgorithms/Go/issues/268) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
 <!--END_SECTION:activity-->
 </details>
 
