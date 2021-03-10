@@ -42,11 +42,11 @@ Here are some ideas to get you started:
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#296](https://github.com/TheAlgorithms/Go/pull/296) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-2. 🎉 Merged PR [#1](https://github.com/tjgurwara99/Go/pull/1) in [tjgurwara99/Go](https://github.com/tjgurwara99/Go)
-3. 💪 Opened PR [#1](https://github.com/tjgurwara99/Go/pull/1) in [tjgurwara99/Go](https://github.com/tjgurwara99/Go)
-4. ❌ Closed PR [#295](https://github.com/TheAlgorithms/Go/pull/295) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-5. 💪 Opened PR [#295](https://github.com/TheAlgorithms/Go/pull/295) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+1. 🗣 Commented on [#293](https://github.com/TheAlgorithms/Go/issues/293) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+2. 💪 Opened PR [#296](https://github.com/TheAlgorithms/Go/pull/296) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+3. 🎉 Merged PR [#1](https://github.com/tjgurwara99/Go/pull/1) in [tjgurwara99/Go](https://github.com/tjgurwara99/Go)
+4. 💪 Opened PR [#1](https://github.com/tjgurwara99/Go/pull/1) in [tjgurwara99/Go](https://github.com/tjgurwara99/Go)
+5. ❌ Closed PR [#295](https://github.com/TheAlgorithms/Go/pull/295) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
 <!--END_SECTION:activity-->
 </details>
 
