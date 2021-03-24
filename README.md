@@ -42,11 +42,11 @@ Here are some ideas to get you started:
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/davibaweja/sortingAlgorithms/issues/1) in [davibaweja/sortingAlgorithms](https://github.com/davibaweja/sortingAlgorithms)
-2. 🗣 Commented on [#293](https://github.com/TheAlgorithms/Go/issues/293) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-3. 💪 Opened PR [#296](https://github.com/TheAlgorithms/Go/pull/296) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-4. 🎉 Merged PR [#1](https://github.com/tjgurwara99/Go/pull/1) in [tjgurwara99/Go](https://github.com/tjgurwara99/Go)
-5. 💪 Opened PR [#1](https://github.com/tjgurwara99/Go/pull/1) in [tjgurwara99/Go](https://github.com/tjgurwara99/Go)
+1. ❗️ Opened issue [#9](https://github.com/tjgurwara99/golang_database_utility/issues/9) in [tjgurwara99/golang_database_utility](https://github.com/tjgurwara99/golang_database_utility)
+2. ❗️ Opened issue [#8](https://github.com/tjgurwara99/golang_database_utility/issues/8) in [tjgurwara99/golang_database_utility](https://github.com/tjgurwara99/golang_database_utility)
+3. ❗️ Opened issue [#34](https://github.com/tjgurwara99/label-maker/issues/34) in [tjgurwara99/label-maker](https://github.com/tjgurwara99/label-maker)
+4. ❗️ Opened issue [#33](https://github.com/tjgurwara99/label-maker/issues/33) in [tjgurwara99/label-maker](https://github.com/tjgurwara99/label-maker)
+5. ❗️ Opened issue [#32](https://github.com/tjgurwara99/label-maker/issues/32) in [tjgurwara99/label-maker](https://github.com/tjgurwara99/label-maker)
 <!--END_SECTION:activity-->
 </details>
 
