@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me at: [tjgurwara99@gmail.com](mailto:tjgurwara99@gmail.com)
+- 📫 You can reach me at: [tjgurwara99@gmail.com](mailto:tjgurwara99@gmail.com)
+- 👤 My LinkedIn profile: [Tajmeet Singh](https://linkedin.com/in/tajmeet)
 
 ---
 
