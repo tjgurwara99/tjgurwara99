@@ -42,11 +42,11 @@ Here are some ideas to get you started:
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/tjgurwara99/golang_database_utility/issues/9) in [tjgurwara99/golang_database_utility](https://github.com/tjgurwara99/golang_database_utility)
-2. ❗️ Opened issue [#8](https://github.com/tjgurwara99/golang_database_utility/issues/8) in [tjgurwara99/golang_database_utility](https://github.com/tjgurwara99/golang_database_utility)
-3. ❗️ Opened issue [#34](https://github.com/tjgurwara99/label-maker/issues/34) in [tjgurwara99/label-maker](https://github.com/tjgurwara99/label-maker)
-4. ❗️ Opened issue [#33](https://github.com/tjgurwara99/label-maker/issues/33) in [tjgurwara99/label-maker](https://github.com/tjgurwara99/label-maker)
-5. ❗️ Opened issue [#32](https://github.com/tjgurwara99/label-maker/issues/32) in [tjgurwara99/label-maker](https://github.com/tjgurwara99/label-maker)
+1. ❗️ Opened issue [#42](https://github.com/tjgurwara99/label-maker/issues/42) in [tjgurwara99/label-maker](https://github.com/tjgurwara99/label-maker)
+2. ❗️ Opened issue [#41](https://github.com/tjgurwara99/label-maker/issues/41) in [tjgurwara99/label-maker](https://github.com/tjgurwara99/label-maker)
+3. 🎉 Merged PR [#40](https://github.com/tjgurwara99/label-maker/pull/40) in [tjgurwara99/label-maker](https://github.com/tjgurwara99/label-maker)
+4. 💪 Opened PR [#40](https://github.com/tjgurwara99/label-maker/pull/40) in [tjgurwara99/label-maker](https://github.com/tjgurwara99/label-maker)
+5. ❗️ Opened issue [#39](https://github.com/tjgurwara99/label-maker/issues/39) in [tjgurwara99/label-maker](https://github.com/tjgurwara99/label-maker)
 <!--END_SECTION:activity-->
 </details>
 
