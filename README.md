@@ -43,11 +43,11 @@ Here are some ideas to get you started:
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](https://github.com/tjgurwara99/golang_database_utility/pull/12) in [tjgurwara99/golang_database_utility](https://github.com/tjgurwara99/golang_database_utility)
-2. 💪 Opened PR [#12](https://github.com/tjgurwara99/golang_database_utility/pull/12) in [tjgurwara99/golang_database_utility](https://github.com/tjgurwara99/golang_database_utility)
-3. ❌ Closed PR [#11](https://github.com/tjgurwara99/golang_database_utility/pull/11) in [tjgurwara99/golang_database_utility](https://github.com/tjgurwara99/golang_database_utility)
-4. 💪 Opened PR [#11](https://github.com/tjgurwara99/golang_database_utility/pull/11) in [tjgurwara99/golang_database_utility](https://github.com/tjgurwara99/golang_database_utility)
-5. ❗️ Closed issue [#42](https://github.com/tjgurwara99/label-maker/issues/42) in [tjgurwara99/label-maker](https://github.com/tjgurwara99/label-maker)
+1. ❗️ Opened issue [#46](https://github.com/tjgurwara99/label-maker/issues/46) in [tjgurwara99/label-maker](https://github.com/tjgurwara99/label-maker)
+2. ❌ Closed PR [#12](https://github.com/tjgurwara99/golang_database_utility/pull/12) in [tjgurwara99/golang_database_utility](https://github.com/tjgurwara99/golang_database_utility)
+3. 💪 Opened PR [#12](https://github.com/tjgurwara99/golang_database_utility/pull/12) in [tjgurwara99/golang_database_utility](https://github.com/tjgurwara99/golang_database_utility)
+4. ❌ Closed PR [#11](https://github.com/tjgurwara99/golang_database_utility/pull/11) in [tjgurwara99/golang_database_utility](https://github.com/tjgurwara99/golang_database_utility)
+5. 💪 Opened PR [#11](https://github.com/tjgurwara99/golang_database_utility/pull/11) in [tjgurwara99/golang_database_utility](https://github.com/tjgurwara99/golang_database_utility)
 <!--END_SECTION:activity-->
 </details>
 
