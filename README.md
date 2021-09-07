@@ -43,11 +43,11 @@ Here are some ideas to get you started:
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#46](https://github.com/tjgurwara99/label-maker/issues/46) in [tjgurwara99/label-maker](https://github.com/tjgurwara99/label-maker)
-2. ❌ Closed PR [#12](https://github.com/tjgurwara99/golang_database_utility/pull/12) in [tjgurwara99/golang_database_utility](https://github.com/tjgurwara99/golang_database_utility)
-3. 💪 Opened PR [#12](https://github.com/tjgurwara99/golang_database_utility/pull/12) in [tjgurwara99/golang_database_utility](https://github.com/tjgurwara99/golang_database_utility)
-4. ❌ Closed PR [#11](https://github.com/tjgurwara99/golang_database_utility/pull/11) in [tjgurwara99/golang_database_utility](https://github.com/tjgurwara99/golang_database_utility)
-5. 💪 Opened PR [#11](https://github.com/tjgurwara99/golang_database_utility/pull/11) in [tjgurwara99/golang_database_utility](https://github.com/tjgurwara99/golang_database_utility)
+1. 💪 Opened PR [#339](https://github.com/TheAlgorithms/Go/pull/339) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+2. 🗣 Commented on [#277](https://github.com/TheAlgorithms/Go/issues/277) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+3. 🎉 Merged PR [#2](https://github.com/tjgurwara99/Go/pull/2) in [tjgurwara99/Go](https://github.com/tjgurwara99/Go)
+4. 💪 Opened PR [#2](https://github.com/tjgurwara99/Go/pull/2) in [tjgurwara99/Go](https://github.com/tjgurwara99/Go)
+5. 🗣 Commented on [#333](https://github.com/TheAlgorithms/Go/issues/333) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
 <!--END_SECTION:activity-->
 </details>
 
