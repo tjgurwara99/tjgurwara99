@@ -43,11 +43,11 @@ Here are some ideas to get you started:
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#339](https://github.com/TheAlgorithms/Go/pull/339) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-2. 🗣 Commented on [#277](https://github.com/TheAlgorithms/Go/issues/277) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-3. 🎉 Merged PR [#2](https://github.com/tjgurwara99/Go/pull/2) in [tjgurwara99/Go](https://github.com/tjgurwara99/Go)
-4. 💪 Opened PR [#2](https://github.com/tjgurwara99/Go/pull/2) in [tjgurwara99/Go](https://github.com/tjgurwara99/Go)
-5. 🗣 Commented on [#333](https://github.com/TheAlgorithms/Go/issues/333) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+1. 🗣 Commented on [#3](https://github.com/tjgurwara99/monkey-go/issues/3) in [tjgurwara99/monkey-go](https://github.com/tjgurwara99/monkey-go)
+2. 🗣 Commented on [#2](https://github.com/raklaptudirm/mash/issues/2) in [raklaptudirm/mash](https://github.com/raklaptudirm/mash)
+3. 🗣 Commented on [#3](https://github.com/tjgurwara99/monkey-go/issues/3) in [tjgurwara99/monkey-go](https://github.com/tjgurwara99/monkey-go)
+4. 💪 Opened PR [#3](https://github.com/tjgurwara99/monkey-go/pull/3) in [tjgurwara99/monkey-go](https://github.com/tjgurwara99/monkey-go)
+5. 🗣 Commented on [#2](https://github.com/raklaptudirm/mash/issues/2) in [raklaptudirm/mash](https://github.com/raklaptudirm/mash)
 <!--END_SECTION:activity-->
 </details>
 
