@@ -43,11 +43,11 @@ Here are some ideas to get you started:
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#483](https://github.com/TheAlgorithms/Go/pull/483) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-2. 🗣 Commented on [#482](https://github.com/TheAlgorithms/Go/issues/482) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-3. 💪 Opened PR [#483](https://github.com/TheAlgorithms/Go/pull/483) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-4. ❌ Closed PR [#479](https://github.com/TheAlgorithms/Go/pull/479) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-5. 🗣 Commented on [#479](https://github.com/TheAlgorithms/Go/issues/479) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+1. 💪 Opened PR [#485](https://github.com/TheAlgorithms/Go/pull/485) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+2. 🗣 Commented on [#422](https://github.com/TheAlgorithms/Go/issues/422) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+3. 🗣 Commented on [#419](https://github.com/TheAlgorithms/Go/issues/419) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+4. ❗️ Reopened issue [#419](https://github.com/TheAlgorithms/Go/issues/419) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+5. ❗️ Closed issue [#478](https://github.com/TheAlgorithms/Go/issues/478) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
 <!--END_SECTION:activity-->
 </details>
 
