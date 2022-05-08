@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/tjgurwara99/godocmd/issues/2) in [tjgurwara99/godocmd](https://github.com/tjgurwara99/godocmd)
-2. 🗣 Commented on [#504](https://github.com/TheAlgorithms/Go/issues/504) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+2. 🗣 Commented on [#2](https://github.com/tjgurwara99/godocmd/issues/2) in [tjgurwara99/godocmd](https://github.com/tjgurwara99/godocmd)
 3. 🗣 Commented on [#504](https://github.com/TheAlgorithms/Go/issues/504) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
 4. 🗣 Commented on [#504](https://github.com/TheAlgorithms/Go/issues/504) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-5. 🎉 Merged PR [#496](https://github.com/TheAlgorithms/Go/pull/496) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+5. 🗣 Commented on [#504](https://github.com/TheAlgorithms/Go/issues/504) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
 <!--END_SECTION:activity-->
 </details>
 
