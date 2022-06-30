@@ -43,11 +43,11 @@ Here are some ideas to get you started:
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#510](https://github.com/TheAlgorithms/Go/issues/510) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-2. 💪 Opened PR [#509](https://github.com/TheAlgorithms/Go/pull/509) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-3. 🗣 Commented on [#2](https://github.com/tjgurwara99/godocmd/issues/2) in [tjgurwara99/godocmd](https://github.com/tjgurwara99/godocmd)
-4. 🗣 Commented on [#2](https://github.com/tjgurwara99/godocmd/issues/2) in [tjgurwara99/godocmd](https://github.com/tjgurwara99/godocmd)
-5. 🎉 Merged PR [#507](https://github.com/TheAlgorithms/Go/pull/507) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+1. 🎉 Merged PR [#1](https://github.com/tjgurwara99/schema-porter/pull/1) in [tjgurwara99/schema-porter](https://github.com/tjgurwara99/schema-porter)
+2. 💪 Opened PR [#1](https://github.com/tjgurwara99/schema-porter/pull/1) in [tjgurwara99/schema-porter](https://github.com/tjgurwara99/schema-porter)
+3. ❗️ Opened issue [#510](https://github.com/TheAlgorithms/Go/issues/510) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+4. 💪 Opened PR [#509](https://github.com/TheAlgorithms/Go/pull/509) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+5. 🗣 Commented on [#2](https://github.com/tjgurwara99/godocmd/issues/2) in [tjgurwara99/godocmd](https://github.com/tjgurwara99/godocmd)
 <!--END_SECTION:activity-->
 </details>
 
