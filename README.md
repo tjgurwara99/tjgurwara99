@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#512](https://github.com/TheAlgorithms/Go/issues/512) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-2. 🎉 Merged PR [#1](https://github.com/tjgurwara99/schema-porter/pull/1) in [tjgurwara99/schema-porter](https://github.com/tjgurwara99/schema-porter)
-3. 💪 Opened PR [#1](https://github.com/tjgurwara99/schema-porter/pull/1) in [tjgurwara99/schema-porter](https://github.com/tjgurwara99/schema-porter)
-4. ❗️ Opened issue [#510](https://github.com/TheAlgorithms/Go/issues/510) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-5. 💪 Opened PR [#509](https://github.com/TheAlgorithms/Go/pull/509) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+2. 🗣 Commented on [#512](https://github.com/TheAlgorithms/Go/issues/512) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+3. 🎉 Merged PR [#1](https://github.com/tjgurwara99/schema-porter/pull/1) in [tjgurwara99/schema-porter](https://github.com/tjgurwara99/schema-porter)
+4. 💪 Opened PR [#1](https://github.com/tjgurwara99/schema-porter/pull/1) in [tjgurwara99/schema-porter](https://github.com/tjgurwara99/schema-porter)
+5. ❗️ Opened issue [#510](https://github.com/TheAlgorithms/Go/issues/510) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
 <!--END_SECTION:activity-->
 </details>
 
