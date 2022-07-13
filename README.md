@@ -43,11 +43,11 @@ Here are some ideas to get you started:
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/ste645/pydantic_to_param/pull/1) in [ste645/pydantic_to_param](https://github.com/ste645/pydantic_to_param)
-2. 🗣 Commented on [#512](https://github.com/TheAlgorithms/Go/issues/512) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+1. 🗣 Commented on [#512](https://github.com/TheAlgorithms/Go/issues/512) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+2. 💪 Opened PR [#1](https://github.com/ste645/pydantic_to_param/pull/1) in [ste645/pydantic_to_param](https://github.com/ste645/pydantic_to_param)
 3. 🗣 Commented on [#512](https://github.com/TheAlgorithms/Go/issues/512) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-4. 🎉 Merged PR [#1](https://github.com/tjgurwara99/schema-porter/pull/1) in [tjgurwara99/schema-porter](https://github.com/tjgurwara99/schema-porter)
-5. 💪 Opened PR [#1](https://github.com/tjgurwara99/schema-porter/pull/1) in [tjgurwara99/schema-porter](https://github.com/tjgurwara99/schema-porter)
+4. 🗣 Commented on [#512](https://github.com/TheAlgorithms/Go/issues/512) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+5. 🎉 Merged PR [#1](https://github.com/tjgurwara99/schema-porter/pull/1) in [tjgurwara99/schema-porter](https://github.com/tjgurwara99/schema-porter)
 <!--END_SECTION:activity-->
 </details>
 
