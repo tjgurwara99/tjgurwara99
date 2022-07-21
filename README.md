@@ -19,38 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 You can reach me at: [tjgurwara99@gmail.com](mailto:tjgurwara99@gmail.com)
+- 📫 You can reach me at: [tjgurwara99@github.com](mailto:tjgurwara99@github.com)
 - 👤 My LinkedIn profile: [Tajmeet Singh](https://linkedin.com/in/tajmeet)
-
----
-
-## 📊 Github Stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="tjgurwara99's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tjgurwara99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="tjgurwara99's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjgurwara99&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <strong>Note:</strong> Top languages is only a metric of the languages my github code/repositories consists of. Therefore it doesn't reflect my experience or skill level
-  accurately.
-</details>
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary> :zap: My Recent Activity on GitHub </summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#512](https://github.com/TheAlgorithms/Go/issues/512) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-2. 💪 Opened PR [#1](https://github.com/ste645/pydantic_to_param/pull/1) in [ste645/pydantic_to_param](https://github.com/ste645/pydantic_to_param)
-3. 🗣 Commented on [#512](https://github.com/TheAlgorithms/Go/issues/512) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-4. 🗣 Commented on [#512](https://github.com/TheAlgorithms/Go/issues/512) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-5. 🎉 Merged PR [#1](https://github.com/tjgurwara99/schema-porter/pull/1) in [tjgurwara99/schema-porter](https://github.com/tjgurwara99/schema-porter)
-<!--END_SECTION:activity-->
-</details>
-
 
 ---
 
